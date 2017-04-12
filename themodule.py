@@ -1,2 +1,2 @@
 def do_sth():
-    return 2
+    return 1
